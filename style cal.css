@@ -1,0 +1,17 @@
+.body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image:url(./images/mathematics-background-DMY1XT.jpg);
+}
+.calculator-box {
+    width: 85%; 
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid #c2bcbc;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
